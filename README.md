@@ -1,7 +1,7 @@
-#About
+# About
 My first app developed in Gatsby (ReactJS). I followed the official tutorial.
 
-##Requirements
+## Requirements
 - npm
 - React
 
